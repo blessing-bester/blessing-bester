@@ -8,13 +8,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/blessing-bester?tab=repositories](https://github.com/blessing-bester?tab=repositories)
 
-- 📝 I regularly write articles on [www.blessingbester.com](www.blessingbester.com)
+- 📝 I regularly write articles on [www.blessingphiri.dev](www.blessingphiri.dev)
 
 - 💬 Ask me about **DevOps, Cloud, K8**
 
 - 📫 How to reach me **blessingphiri79@outlook.com**
 
-- 📄 Know about my experiences [www.blessingbester.com](www.blessingbester.com)
+- 📄 Know about my experiences [www.blessingphiri.dev](www.blessingphiri.dev)
 
 - ⚡ Fun fact **I am funny**
 
