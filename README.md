@@ -1,61 +1,97 @@
 # 👋 Hi, I’m Blessing Phiri  
 
-🚀 **Founder & Lead Engineer at Init Labs** – my creative umbrella where I tell stories through technology.  
+🚀 **Founder and Solutions Architect at Init Labs** – my creative umbrella fictious Company where I tell stories through technology.  
 
-I’m a passionate **DevOps Engineer, AI/ML & GenAI Practitioner, and Solutions Architect** who loves solving problems and sharing them as stories. Technology for me is not just about code — it’s about crafting narratives of transformation.  
+I’m a passionate **DevOps Engineer, AI/ML & Cloud** who believes every project is a story waiting to be told.  
+At **Init Labs**, I create **fictitious problems inspired by real-world challenges** and design **real, production-ready solutions** for them.  
 
 ---
 
-## 📖 Why Storytelling?  
-I believe stories make technology easier to connect with.  
-At **Init Labs**, I create **fictitious problems** inspired by real-world challenges, and then design **practical solutions** for them.  
+## 📖 My Storytelling Approach  
 
-This lets me showcase how I think as a **Solutions Architect**:  
-- Identifying pain points 🩹  
-- Designing systems that scale ⚙️  
-- Applying DevOps, AI, and DataOps practices 🤖  
-- Delivering clear, measurable outcomes 📊  
+I love **storytelling in tech** because it makes complex systems easier to connect with.  
+Every project at Init Labs is written like a story:  
 
-Every case study here is written like a story — **the client, the problem, the solution, and the results.**  
+- **The Client** → who faces the challenge  
+- **The Problem** → the obstacle that needs solving  
+- **The Solution** → tools, architecture & processes I design  
+- **The Results** → measurable impact  
+
+Through this narrative, I showcase how I think and build as a **Solutions Architect**:  
+🩹 identify pain points → ⚙️ design scalable systems → 🤖 apply AI & DevOps practices → 📊 deliver outcomes.  
 
 ---
 
 ## 🔥 What I Do  
-- ⚙️ **DevOps & Cloud Engineering** → CI/CD pipelines, Kubernetes, Docker, IaC, observability  
+- ⚙️ **DevOps & Cloud Engineering** → CI/CD, Kubernetes, OpenShift, observability  
 - 📊 **DataOps & Analytics** → pipelines, governance, real-time insights, feature stores  
-- 🤖 **AI & Machine Learning** → predictive models, recommendation systems, optimization engines  
-- 🧠 **Generative AI** → chatbots, copilots, RAG-based assistants, AI automation  
+- 🤖 **AI & Machine Learning** → predictive models, recommendation engines, fraud detection  
+- 🧠 **Generative AI** → chatbots, copilots, RAG-powered automation assistants  
 - 💻 **Software Development** → APIs, scalable backends, modern web apps  
 
 ---
 
 ## 🏢 Init Labs – My Storytelling Umbrella  
+
 Think of Init Labs as my **sandbox for storytelling**.  
-Here, I take on the role of **Solutions Architect** and lead the team in creating systems for clients across industries:  
+Here, I act as a **Solutions Architect**, leading projects for clients across industries:  
 
 - 🛍 **Retail & E-commerce** → smarter shopping with AI recommendations  
 - 💳 **Finance** → fraud detection + secure DevOps pipelines  
-- 🏥 **Healthcare** → AI diagnostics + compliant DataOps  
-- 🚚 **Logistics** → predictive delivery & observability  
+- 🏥 **Healthcare** → AI diagnostics + compliant DataOps pipelines  
+- 🚚 **Logistics** → predictive delivery optimization & observability  
 
-Each project is a **fictitious client** with a unique story — but the solutions are real, practical, and production-ready.  
+Each case study is a **story with a challenge and a solution**, but the tools and methods are real-world.  
 
 ---
 
 ## 🛠️ Tech Toolbox  
 
-![DevOps](https://img.shields.io/badge/-DevOps-blue?style=for-the-badge&logo=githubactions&logoColor=white)  
+### ⚙️ DevOps & Cloud  
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![OpenShift](https://img.shields.io/badge/-OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)  
+![Red Hat](https://img.shields.io/badge/-Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)  
+![Podman](https://img.shields.io/badge/-Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![OpenStack](https://img.shields.io/badge/-OpenStack-F01742?style=for-the-badge&logo=openstack&logoColor=white)  
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![LangChain](https://img.shields.io/badge/-LangChain-1C1C1C?style=for-the-badge)  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)  
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)  
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)  
 
 ---
 
-## 📌 Featured Case Studies (Stories from Init Labs)  
+### 📊 Data & Analytics  
+![Apache Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)  
+![dbt](https://img.shields.io/badge/-dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)  
+![Great Expectations](https://img.shields.io/badge/-Great%20Expectations-1E293B?style=for-the-badge)  
+![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)  
+![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)  
+
+---
+
+### 🤖 AI / ML / GenAI  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)  
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)  
+![LangChain](https://img.shields.io/badge/-LangChain-1C1C1C?style=for-the-badge)  
+![VectorDB](https://img.shields.io/badge/-VectorDB-3B82F6?style=for-the-badge)  
+
+---
+
+### 💻 Development  
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+
+---
+
+## 📌 Featured Stories from Init Labs  
 - 🛍 **NovaMart (Retail Client)** → AI-powered Recommendation Engine + GenAI Chatbot  
 - 💳 **FinTrust Bank (Finance Client)** → Fraud Detection ML Model + Secure DevOps Pipeline  
 - 🏥 **MediTrack (Healthcare Client)** → AI Diagnostic Tool + DataOps Pipeline  
@@ -72,9 +108,9 @@ Each project is a **fictitious client** with a unique story — but the solution
 
 ## 📫 Let’s Connect  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](#)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blessing@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blessing-phiri-614b77209/)  
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]()  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blessingphiri79@outlook.com)  
 
 ---
 
