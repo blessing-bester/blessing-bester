@@ -1,36 +1,83 @@
-<h1 align="center">Hi 👋, I'm Blessing Bester Phiri</h1>
-<h3 align="center">I do Linux things</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+# 👋 Hi, I’m Blessing Phiri  
 
-- 🔭 I’m currently working on [bible-pfupiso Web App](https://github.com/blessing-bester/bible-pfupiso)
+🚀 **Founder & Lead Engineer at Init Labs** – my creative umbrella where I tell stories through technology.  
 
-- 🌱 I’m currently learning **OpenStack, Machine Learning**
+I’m a passionate **DevOps Engineer, AI/ML & GenAI Practitioner, and Solutions Architect** who loves solving problems and sharing them as stories. Technology for me is not just about code — it’s about crafting narratives of transformation.  
 
-- 👨‍💻 All of my projects are available at [https://github.com/blessing-bester?tab=repositories](https://github.com/blessing-bester?tab=repositories)
+---
 
-- 📝 I regularly write articles on [www.blessingphiri.dev](www.blessingphiri.dev)
+## 📖 Why Storytelling?  
+I believe stories make technology easier to connect with.  
+At **Init Labs**, I create **fictitious problems** inspired by real-world challenges, and then design **practical solutions** for them.  
 
-- 💬 Ask me about **DevOps, Cloud, K8**
+This lets me showcase how I think as a **Solutions Architect**:  
+- Identifying pain points 🩹  
+- Designing systems that scale ⚙️  
+- Applying DevOps, AI, and DataOps practices 🤖  
+- Delivering clear, measurable outcomes 📊  
 
-- 📫 How to reach me **blessingphiri79@outlook.com**
+Every case study here is written like a story — **the client, the problem, the solution, and the results.**  
 
-- 📄 Know about my experiences [www.blessingphiri.dev](www.blessingphiri.dev)
+---
 
-- ⚡ Fun fact **I am funny**
+## 🔥 What I Do  
+- ⚙️ **DevOps & Cloud Engineering** → CI/CD pipelines, Kubernetes, Docker, IaC, observability  
+- 📊 **DataOps & Analytics** → pipelines, governance, real-time insights, feature stores  
+- 🤖 **AI & Machine Learning** → predictive models, recommendation systems, optimization engines  
+- 🧠 **Generative AI** → chatbots, copilots, RAG-based assistants, AI automation  
+- 💻 **Software Development** → APIs, scalable backends, modern web apps  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/blessing-phiri-614b77209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/blessing-phiri-614b77209/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=61566764828622&sk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61566764828622&sk" height="30" width="40" /></a>
-<a href="https://www.behance.net/blessingphiri79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="blessingphiri79" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+## 🏢 Init Labs – My Storytelling Umbrella  
+Think of Init Labs as my **sandbox for storytelling**.  
+Here, I take on the role of **Solutions Architect** and lead the team in creating systems for clients across industries:  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blessing-bester&show_icons=true&locale=en&layout=compact" alt="blessing-bester" /></p>
+- 🛍 **Retail & E-commerce** → smarter shopping with AI recommendations  
+- 💳 **Finance** → fraud detection + secure DevOps pipelines  
+- 🏥 **Healthcare** → AI diagnostics + compliant DataOps  
+- 🚚 **Logistics** → predictive delivery & observability  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blessing-bester&show_icons=true&locale=en" alt="blessing-bester" /></p>
+Each project is a **fictitious client** with a unique story — but the solutions are real, practical, and production-ready.  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blessing-bester&" alt="blessing-bester" /></p>
+---
+
+## 🛠️ Tech Toolbox  
+
+![DevOps](https://img.shields.io/badge/-DevOps-blue?style=for-the-badge&logo=githubactions&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![LangChain](https://img.shields.io/badge/-LangChain-1C1C1C?style=for-the-badge)  
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
+
+---
+
+## 📌 Featured Case Studies (Stories from Init Labs)  
+- 🛍 **NovaMart (Retail Client)** → AI-powered Recommendation Engine + GenAI Chatbot  
+- 💳 **FinTrust Bank (Finance Client)** → Fraud Detection ML Model + Secure DevOps Pipeline  
+- 🏥 **MediTrack (Healthcare Client)** → AI Diagnostic Tool + DataOps Pipeline  
+- 🚚 **TransGlobe Logistics (Logistics Client)** → Predictive Delivery Optimization + Monitoring  
+
+---
+
+## 🌱 Currently Exploring  
+- ⚡ Scaling **GenAI apps** with vector databases  
+- 📈 MLOps best practices for production-ready ML pipelines  
+- 🔍 Advanced observability & self-healing cloud systems  
+
+---
+
+## 📫 Let’s Connect  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](#)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blessing@example.com)  
+
+---
+
+✨ *This README is my storytelling stage — through **Init Labs**, I create fictitious problems and build real solutions as a **Solutions Architect**, blending DevOps, DataOps, AI/ML, and GenAI into powerful narratives of technology.*  
+
 
