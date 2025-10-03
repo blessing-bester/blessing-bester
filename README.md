@@ -1,13 +1,13 @@
 # Hi, I'm Blessing Phiri 👋
 
-## DevOps Engineer | RHCE | OpenShift Specialist | Multi-Cloud Architect
+## DevOps Engineer | RHCA | OpenShift Specialist | Multi-Cloud Architect | RHCE | RHCSA
 
 I transform infrastructure through automation, container orchestration, and cloud-native solutions.
 
 ### 🔧 What I Do
 - Design and deploy production OpenShift/Kubernetes platforms
 - Build multi-cloud infrastructure with Terraform
-- Automate CI/CD pipelines with Harness, Jenkins, and GitLab
+- Automate CI/CD pipelines with Harness, Jenkins, Tekton and GitLab
 - Implement GitOps workflows with ArgoCD
 - Orchestrate complex workflows with Apache Airflow
 
@@ -21,7 +21,6 @@ I transform infrastructure through automation, container orchestration, and clou
 - 🎓 Terraform Associate
 - 🎓 Harness Certified DevOps Professional
 - 🎓 Apache Airflow DAG Authoring
-- 🎓 *1 exam away from Red Hat Certified Architect (RHCA)*
 
 ### 💼 Tech Stack
 
@@ -78,9 +77,9 @@ End-to-end CI/CD pipeline with canary deployments, automated rollbacks, and inte
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=blessing-bester&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blessing-bester&layout=compact&theme=radical)
 
 ### 📫 How to Reach Me
 
@@ -100,4 +99,4 @@ Started as a Linux Systems Trainee in 2019, progressed through Junior System Adm
 
 **⭐ If you find my projects useful, consider starring them!**
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=blessing-bester&color=blue&style=flat-square)
