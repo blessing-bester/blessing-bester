@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Blessing Phiri 👋
 
 ## DevOps Engineer | RHCE | OpenShift Specialist | Multi-Cloud Architect
 
