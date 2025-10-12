@@ -1,177 +1,134 @@
 # Hi, I'm Blessing Phiri 👋
 
-## DevOps Engineer | Building Cloud Infrastructure & Automation at Scale
+## DevOps Engineer | Cloud Infrastructure & Automation Specialist
 
-I build production systems. Kubernetes clusters, CI/CD pipelines, multi-cloud infrastructure—if it can be automated, I've built it.
-
----
-
-## 🛠️ What I Build
-
-**Cloud Infrastructure**
-- Multi-cloud environments with Terraform across AWS, Azure, and Oracle Cloud
-- High-availability Kubernetes/OpenShift clusters from scratch
-- Auto-scaling infrastructure with monitoring and cost optimization
-- Disaster recovery systems with automated failover
-
-**CI/CD & Automation**
-- Zero-downtime deployment pipelines with Harness, Jenkins, and Tekton
-- GitOps workflows with ArgoCD for declarative deployments
-- Container build systems with integrated security scanning
-- Apache Airflow orchestration for complex ETL workflows
-
-**Monitoring & Reliability**
-- Prometheus + Grafana observability stacks
-- Custom alerting and SLO-based monitoring
-- Automated incident response and remediation
-- Performance optimization and cost reduction tools
+I design and implement scalable cloud infrastructure and automation solutions. Passionate about building robust systems, optimizing workflows, and implementing DevOps best practices.
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Technical Expertise
 
-### 🌍 [Multi-Cloud Terraform Infrastructure](link-to-repo)
-One codebase deploying identical infrastructure across AWS, Azure, and Oracle Cloud.
+### Cloud & Infrastructure
+- Infrastructure as Code with Terraform and CloudFormation
+- Multi-cloud strategies and implementations
+- Container orchestration with Kubernetes and OpenShift
+- Serverless architectures and microservices
+- Networking and security best practices
 
-**Built:**
-- Unified networking (VPC/VNet/VCN) with peering
-- Managed Kubernetes clusters (EKS/AKS/OKE)
-- Database instances with automated backups
-- Storage solutions with cross-region replication
-- Security scanning in CI/CD with tfsec
-- Cost tracking and budget alerts
+### CI/CD & Automation
+- Pipeline design and implementation (Jenkins, GitLab CI, GitHub Actions)
+- GitOps workflows with ArgoCD and Flux
+- Container lifecycle management
+- Configuration management with Ansible
+- Automated testing and deployment strategies
 
-**Impact:** 60% reduction in provisioning time, 100% infrastructure consistency
-
-**Stack:** Terraform • AWS • Azure • Oracle Cloud • GitHub Actions
+### Monitoring & Reliability
+- Observability stacks (Prometheus, Grafana, ELK)
+- Logging and monitoring solutions
+- Performance optimization and troubleshooting
+- Disaster recovery and backup strategies
 
 ---
 
-### ☸️ [Production OpenShift Platform](link-to-repo)
-Enterprise-grade Kubernetes platform handling real production workloads.
+## 🚀 Projects & Contributions
 
-**Built:**
-- Multi-node OpenShift cluster with HA control plane
-- GitOps deployment managing 100+ applications via ArgoCD
-- Tekton CI/CD pipelines with automated testing
-- Network policies and security hardening
-- Integrated monitoring with Prometheus/Grafana
-- Automated backup/restore with Velero
-- Certificate automation with cert-manager
+### ☁️ [Cloud Infrastructure Templates](link-to-repo)
+Collection of reusable Terraform modules and CloudFormation templates for various use cases.
 
 **Features:**
-- 99.95% uptime SLA
-- Sub-30-second rollbacks
-- Blue-green and canary deployments
-- Automated security patching
+- Modular design for different cloud providers
+- Security-focused configurations
+- Cost-optimized resource definitions
+- Documentation and examples for each module
 
-**Stack:** OpenShift • Kubernetes • ArgoCD • Tekton • Helm • Prometheus
-
----
-
-### 🔄 [Harness CI/CD Showcase](link-to-repo)
-Advanced deployment pipeline with canary releases and automated rollbacks.
-
-**Built:**
-- Multi-stage pipeline (dev → staging → prod)
-- Automated container security scanning (Trivy/Grype)
-- Canary deployment with metric-based promotion
-- Automated rollback on failure detection
-- Integrated testing (unit, integration, smoke)
-- Approval workflows for production
-
-**Deployment Strategies:**
-- Canary: 10% → 50% → 100%
-- Blue-green with instant switchback
-- Rolling updates with health checks
-
-**Stack:** Harness • Kubernetes • Helm • Container Security Tools
+**Tech Stack:** Terraform • AWS • Azure • GitHub Actions
 
 ---
 
-### 🔧 [Ansible Automation Framework](link-to-repo)
-Configuration management system for 200+ servers.
+### 🔄 [CI/CD Pipeline Examples](link-to-repo)
+Practical implementations of CI/CD pipelines for different scenarios and technologies.
 
-**Built:**
-- Role-based server provisioning
-- Automated security hardening (CIS benchmarks)
-- Zero-touch OS patching with rollback capability
-- Application deployment automation
-- Compliance reporting and drift detection
+**Examples Include:**
+- Containerized application deployment
+- Infrastructure validation pipelines
+- Security scanning integration
+- Multi-environment promotion strategies
 
-**Impact:** 90% reduction in manual configuration time
-
-**Stack:** Ansible • Python • YAML • Red Hat/Ubuntu
+**Tech Stack:** Jenkins • GitLab CI • Docker • Kubernetes
 
 ---
 
-### 📊 [Apache Airflow ETL Pipeline](link-to-repo)
-Production data pipeline orchestrating complex workflows.
+### 📚 [DevOps Learning Resources](link-to-repo)
+Curated collection of DevOps concepts, best practices, and implementation guides.
 
-**Built:**
-- 50+ DAGs for data ingestion and transformation
-- Multi-cloud data movement (S3 → Azure Blob → OCI)
-- Automated data quality checks
-- Error handling with retry logic
-- SLA monitoring and alerting
-- Dynamic pipeline generation
-
-**Stack:** Apache Airflow • Python • Kubernetes • PostgreSQL
+**Content:**
+- Kubernetes deployment patterns
+- Terraform best practices
+- Monitoring and alerting strategies
+- Troubleshooting common issues
 
 ---
 
-## 💼 Tech Stack
+## 💼 Core Competencies
 
-**Container & Orchestration**  
-Kubernetes • OpenShift • Docker • Helm • Podman
+**Container Technologies**  
+Docker • Kubernetes • OpenShift • Podman • Helm
 
 **Cloud Platforms**  
-AWS • Azure • Oracle Cloud • Multi-Cloud Architecture
+AWS • Azure • Oracle Cloud • Multi-cloud Architecture
 
 **Infrastructure as Code**  
 Terraform • Ansible • CloudFormation • ARM Templates
 
-**CI/CD & GitOps**  
-Harness • Jenkins • GitLab CI • Tekton • ArgoCD • GitHub Actions
+**CI/CD Tools**  
+Jenkins • GitLab CI • GitHub Actions • ArgoCD • Tekton
 
 **Programming & Scripting**  
-Python • Bash • YAML • HCL • Jinja2
+Python • Bash • YAML • HCL • Groovy
 
 **Monitoring & Observability**  
-Prometheus • Grafana • ELK Stack • Alertmanager
+Prometheus • Grafana • CloudWatch • Azure Monitor
 
-**Linux**  
-Red Hat Enterprise Linux • CentOS • Ubuntu • System Administration
-
-**Workflow Orchestration**  
-Apache Airflow • Kubernetes Jobs • CronJobs
+**Operating Systems**  
+Linux (RHEL, CentOS, Ubuntu) • Windows Server
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=blessing-bester&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blessing-bester&show_icons=true&hide_border=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blessing-bester&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blessing-bester&layout=compact&hide_border=true&theme=radical)
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blessing-bester)
 
 ---
 
-## 💡 Currently Building
+## 🎯 Current Focus
 
-🔨 Expanding multi-cloud Terraform modules for enterprise patterns  
-🔨 OpenShift platform enhancements with advanced observability  
-🔨 GitOps best practices repository with real-world examples  
-🔨 Open to remote DevOps/SRE/Platform Engineering opportunities
+- 🔭 Exploring advanced Kubernetes operators and custom resources
+- 🌱 Learning more about service mesh technologies (Istio, Linkerd)
+- 💡 Building practical DevOps tutorials and real-world examples
+- 🤝 Open to collaborating on interesting DevOps/Cloud projects
+- 💼 Seeking remote DevOps, SRE, or Cloud Engineering opportunities
 
 ---
 
-**⭐ If you find my projects useful, star them and let me know what you're building!**
+## 📝 Latest Blog Posts / Articles
+
+<!-- If you have a blog, you can add recent posts here -->
+- Getting Started with Terraform Modules
+- Kubernetes Security Best Practices
+- Building Effective CI/CD Pipelines
+
+---
+
+**Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate.**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=blessing-bester&color=blue&style=flat-square)
