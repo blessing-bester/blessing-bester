@@ -45,7 +45,7 @@ Collection of reusable Terraform modules and CloudFormation templates for variou
 
 ---
 
-### 🔄 [CI/CD Pipeline Examples](link-to-repo)
+### 🔄 [CI/CD Pipeline Examples](https://github.com/blessing-bester/Pre-Deployment-Chaos-Testing-System)
 Practical implementations of CI/CD pipelines for different scenarios and technologies.
 
 **Examples Include:**
