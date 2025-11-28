@@ -1,134 +1,57 @@
-# Hi, I'm Blessing Phiri 👋
 
-## DevOps Engineer | Cloud Infrastructure & Automation Specialist
+# 👋 Hi, I'm Blessing — DevOps & Platform Engineer
 
-I design and implement scalable cloud infrastructure and automation solutions. Passionate about building robust systems, optimizing workflows, and implementing DevOps best practices.
-
----
-
-## 🛠️ Technical Expertise
-
-### Cloud & Infrastructure
-- Infrastructure as Code with Terraform and CloudFormation
-- Multi-cloud strategies and implementations
-- Container orchestration with Kubernetes and OpenShift
-- Serverless architectures and microservices
-- Networking and security best practices
-
-### CI/CD & Automation
-- Pipeline design and implementation (Jenkins, GitLab CI, GitHub Actions)
-- GitOps workflows with ArgoCD and Flux
-- Container lifecycle management
-- Configuration management with Ansible
-- Automated testing and deployment strategies
-
-### Monitoring & Reliability
-- Observability stacks (Prometheus, Grafana, ELK)
-- Logging and monitoring solutions
-- Performance optimization and troubleshooting
-- Disaster recovery and backup strategies
+I design and run **Kubernetes and OpenShift platforms** that developers enjoy using.  
+My work sits at the intersection of **automation, reliability, and developer experience** — turning complex cloud infrastructure into simple, usable platforms.
 
 ---
 
-## 🚀 Projects & Contributions
+## 🧰 Core Skills & Specialties
 
-### ☁️ [Cloud Infrastructure Templates](link-to-repo)
-Collection of reusable Terraform modules and CloudFormation templates for various use cases.
+### 🔧 Platform Engineering
+- Designing scalable Kubernetes/OpenShift clusters  
+- Building secure, repeatable platform architecture  
+- Managing Operators, networking, ingress, storage, and cluster automation  
 
-**Features:**
-- Modular design for different cloud providers
-- Security-focused configurations
-- Cost-optimized resource definitions
-- Documentation and examples for each module
+### 🤖 DevOps & Automation
+- Infrastructure-as-Code with **Terraform**  
+- Configuration automation with **Ansible**  
+- CI/CD pipelines (GitHub Actions, Argo CD, Tekton)  
+- GitOps workflows for reliable, predictable deployments  
 
-**Tech Stack:** Terraform • AWS • Azure • GitHub Actions
-
----
-
-### 🔄 [CI/CD Pipeline Examples](https://github.com/blessing-bester/Pre-Deployment-Chaos-Testing-System)
-Practical implementations of CI/CD pipelines for different scenarios and technologies.
-
-**Examples Include:**
-- Containerized application deployment
-- Infrastructure validation pipelines
-- Security scanning integration
-- Multi-environment promotion strategies
-
-**Tech Stack:** Jenkins • GitLab CI • Docker • Kubernetes
+### 🐧 Linux & Cloud Foundations
+- Strong Linux admin (systemd, networking, security, troubleshooting)  
+- Containerization, registries, and runtime optimization  
+- Monitoring, logging, observability, and platform hardening  
 
 ---
 
-### 📚 [DevOps Learning Resources](link-to-repo)
-Curated collection of DevOps concepts, best practices, and implementation guides.
+## 🚀 Notable Projects
 
-**Content:**
-- Kubernetes deployment patterns
-- Terraform best practices
-- Monitoring and alerting strategies
-- Troubleshooting common issues
+### 🚐 **Mumvee Travel DevOps**
+A full DevOps transformation:
+- Automated cloud deployments using Terraform + Ansible  
+- CI/CD pipelines for fast, dependable releases  
+- Improved developer experience with standardized workflows  
+Result: smoother deployments, fewer issues, happier engineers.
 
----
-
-## 💼 Core Competencies
-
-**Container Technologies**  
-Docker • Kubernetes • OpenShift • Podman • Helm
-
-**Cloud Platforms**  
-AWS • Azure • Oracle Cloud • Multi-cloud Architecture
-
-**Infrastructure as Code**  
-Terraform • Ansible • CloudFormation • ARM Templates
-
-**CI/CD Tools**  
-Jenkins • GitLab CI • GitHub Actions • ArgoCD • Tekton
-
-**Programming & Scripting**  
-Python • Bash • YAML • HCL • Groovy
-
-**Monitoring & Observability**  
-Prometheus • Grafana • CloudWatch • Azure Monitor
-
-**Operating Systems**  
-Linux (RHEL, CentOS, Ubuntu) • Windows Server
+### ☎️ **Vicidial → OpenShift Migration**
+Migrated a complete PBX Vicidial call-center stack onto OpenShift:
+- 3 master nodes, 6 worker nodes, Ceph storage (triple-replicated)  
+- Integrated kubevirt for VM workloads  
+- Created HA, self-healing, production-ready environment for 200 agents  
+A complex move — delivered with zero downtime and maximum reliability.
 
 ---
 
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blessing-bester&show_icons=true&hide_border=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blessing-bester&layout=compact&hide_border=true&theme=radical)
-
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blessing-bester)
+## 💡 How I Think
+- **Automate what hurts**  
+- **Build platforms people enjoy using**  
+- **Make infra predictable, not painful**  
+- **Ship fast, safely, and repeatedly**
 
 ---
 
-## 🎯 Current Focus
-
-- 🔭 Exploring advanced Kubernetes operators and custom resources
-- 🌱 Learning more about service mesh technologies (Istio, Linkerd)
-- 💡 Building practical DevOps tutorials and real-world examples
-- 🤝 Open to collaborating on interesting DevOps/Cloud projects
-- 💼 Seeking remote DevOps, SRE, or Cloud Engineering opportunities
-
----
-
-## 📝 Latest Blog Posts / Articles
-
-<!-- If you have a blog, you can add recent posts here -->
-- Getting Started with Terraform Modules
-- Kubernetes Security Best Practices
-- Building Effective CI/CD Pipelines
-
----
-
-**Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate.**
-
-![Profile Views](https://komarev.com/ghpvc/?username=blessing-bester&color=blue&style=flat-square)
+## 📫 Contact
+LinkedIn: https://www.linkedin.com/in/blessing-phiri-614b77209/
+Email: blessingphiri79@gmail.com
